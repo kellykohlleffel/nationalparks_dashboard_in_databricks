@@ -242,16 +242,3 @@ LIMIT 15;
 4. Save dashboard
 
 ![National Parks Dashboard](images/dbx_nationalparks_dashboard.png)
-
-## Maintenance
-
-### Regular Tasks
-- Verify data freshness weekly
-- Update visualizations when data changes
-- Monitor performance metrics
-
-### Best Practices
-- Document any changes made to queries
-- Test new visualizations in development first
-- Backup dashboard configurations
-- Monitor for any broken queries or visualizations
