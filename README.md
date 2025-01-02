@@ -1,0 +1,2 @@
+# nationalparks_visualization_dashboard_in_databricks
+ This guide details the creation of an interactive Databricks dashboard that visualizes data sourced from the National Park Service (NPS) API. The data pipeline leverages the Fivetran Connector SDK to sync National Parks data directly into your Databricks environment, where it can be analyzed and visualized using Databricks' SQL and visualization capabilities.
